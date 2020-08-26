@@ -4,9 +4,9 @@ A javascript visualization for Emergent Taxis (a swarm of low-capable robots fin
 
 ## Where to find the visualization? 
 
-<center><a href="https://tristndev.github.io/EmergentTaxis/">Click here!</a></center>
+[`Click here!`](https://tristndev.github.io/Emergent-Taxis/)
 
-[![Screenshot](screenshot.png)](https://tristndev.github.io/EmergentTaxis/)
+[![Screenshot](screenshot.png)](https://tristndev.github.io/Emergent-Taxis/)
 
 * Simply hit `start / freeze` to observe the swarm locate the light beacon.
 * Hit `reset` to start a new run.
