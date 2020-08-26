@@ -1,8 +1,22 @@
-# EmergentTaxis
+# Emergent Taxis
 
 A javascript visualization for Emergent Taxis (a swarm of low-capable robots finds a light source)
 
-## Find the visualization [`here`](https://tristndev.github.io/EmergentTaxis/)!
+## Where to find the visualization? 
+
+<center><a href="https://tristndev.github.io/EmergentTaxis/">Click here!</a></center>
+
+[![Screenshot](screenshot.png)](https://tristndev.github.io/EmergentTaxis/)
+
+* Simply hit `start / freeze` to observe the swarm locate the light beacon.
+* Hit `reset` to start a new run.
+* Hit `download data` to download csv data for an executed run.
+* Use the controls on the top right to experiment with parameters.
+  * `n_agents`: Number of agents
+  * `unit`: Unit size
+  * `alpha`: Target fraction of agents to have within communication range.
+  * `r_avoid_light`: Agent avoidance radius in light.
+  * `r_avoid_shad`: Agent avoidance radius in shadow.
 
 ## What is *Emergence*?
 
@@ -13,7 +27,7 @@ Think: A single ant is not capable of much, but a whole ant colony can achieve i
 
 We will observe a swarm of minimalist, low-capable robots slowly moving towards a light source. Each individual agent is not capable of doing so, but together they can locate the light (hence the *emergent*). 
 
-## Additional Resources
+### Additional Resources on Emergent Taxis
 
 Read original papers and find additional information here:
 
