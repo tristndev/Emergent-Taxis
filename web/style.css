@@ -1,0 +1,44 @@
+body {
+  margin:0;
+  padding: 0;
+  background: -webkit-gradient(linear, left top, right bottom, from(#141E30), to(#243B55)) fixed;
+  overflow: hidden;
+}
+
+#field {
+  padding: 20px;
+  margin: auto;
+  display: block;
+  width: 50%;
+  height: 30%;
+}
+
+
+#plot {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 80%;
+  height: 30%;
+  background: rgba(13, 40, 97, 0);
+}
+
+#chart-container {
+  width: 600px;
+  height: 300px;
+  margin: auto;
+}
+
+button{
+  display: inline-block;
+  margin: 1em;
+  border-radius: 3px;
+  background: #434d5a;
+  border: none;
+  padding: 1em 0;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width:12em;
+  font-family: 'Courier New', Courier, monospace;
+}
