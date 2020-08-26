@@ -5,6 +5,12 @@ body {
   overflow: hidden;
 }
 
+h1 {
+  font-family: Helvetica, arial, sans-serif;
+  text-align:center;
+  color: rgb(255, 183, 134);
+}
+
 #field {
   padding: 20px;
   margin: auto;
